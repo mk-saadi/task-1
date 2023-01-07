@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.hero-img{
+    width: 100%;
+    height: 100%;
+}
+.content{
+    position: absolute;
+    top: 20%;
+    bottom: 8%;
+    left: 55%;
+    right: 5%;
+    text-align: right;
+
+}
+.h11{
+    font-size: 45px;
+    right: 5%;
+    text-align: right;
+    color: rgb(255, 255, 255);
+}
+.btn-primary{
+    font-size: 15px;
+    font-weight: 600;
+    color: aliceblue;
+    background-color: rgb(54, 171, 250);
+    border: none;
+    padding:15px 20px;
+    border-radius: 5px;
+}
+.paramount{
+    padding: 15px 0;
+    color: rgb(239, 249, 253);
+
+}
+.content2{
+    display: grid;
+   align-items: center;
+    grid-template-columns:1fr 1fr 1fr;
+    margin: 70px 20px;
+    font-size: larger;
+    font-weight: 500 ;
+    color: #212121;
+    text-align: left;
+    
+}
+.paragraph{
+    padding-left: 70px;
+    color: #212121;
+    font-weight: 600;
+
+}
+.section11{
+    border: 5px solid #a4deff;
+    border-radius: 7px;
+    margin: 0 30px;
+    background-color: #ddfdfd;
+
+}
+.plans{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.icon-section{
+    display: flex;
+    margin: 40px 40px 40px 240px;
+    
+
+}
+.icon{
+    color: rgb(56, 66, 66);
+    padding: 50px;
+}
+.text{
+    background-image: linear-gradient(to right, rgb(35, 136, 250), rgba(255, 255, 255, 0));
+    text-align: left;
+    margin: 90px;
+    padding:50px ;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-size: 15px;
+    
+}
+.btn-primary1{
+    font-size: 20px;
+    font-weight: 600;
+    color: aliceblue;
+    background-color: rgb(54, 171, 250);
+    border: none;
+    padding:15px 20px;
+    border-radius: 5px;
+    margin: 15px 0 0 0;
+}
+.footer{
+    background-color: #212121;
+    padding: 40px;
+    color: whitesmoke;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    font-size: 20px;
+
+}
+.input{
+    color:#212121;
+    padding: 5px 30px 5px 10px;
+    font-size: 10px;
+}
+.section2{
+    padding-left: 180px;
+}
+.section1{
+    padding: 0 15px 15px 100px;
+}
+.saadi{
+    color: aquamarine;
+}
+.contact{
+    color: #faf2f2;
+    text-align: left;
+    padding: 40px;
+    border: 2px solid #212121;
+    background-color: black;
+    margin: 50px 5px 50px 5px;
+    border-radius: 5px;
+}
+.iorem{
+    padding: 30px 5px 30px 5px;
+
+}
